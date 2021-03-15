@@ -1,0 +1,2 @@
+A versão do netbeans utilizada é a 8.2.
+É preciso instalar o mysql-connector-java-8.0.11 dentro do projeto no netbeans.
